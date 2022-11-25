@@ -1,24 +1,24 @@
 # Intermediate Python
 
-Intro
-Lists
-Tuples
-Dictionaries
-Sets
-Strings
-Collections
-Itertools
-Lambda Functions
-Exceptions and Errors
-Logging
-JSON
-Random Numbers
-Decorators
-Generators
-Threading vs Multiprocessing
-Multithreading
-Multiprocessing
-Function Arguments
-The Asterisk (*) Operator
-Shallow vs Deep Copying
+Intro\n
+Lists\n
+Tuples\n
+Dictionaries\n
+Sets\n
+Strings\n
+Collections\n
+Itertools\n
+Lambda Functions\n
+Exceptions and Errors\n
+Logging\n
+JSON\n
+Random Numbers\n
+Decorators\n
+Generators\n
+Threading vs Multiprocessing\n
+Multithreading\n
+Multiprocessing\n
+Function Arguments\n
+The Asterisk (*) Operator\n
+Shallow vs Deep Copying\n
 Context Managers
